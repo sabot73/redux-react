@@ -5,13 +5,16 @@ Redux React
 
 #로컬과 Source 코드 동기화
 hyungsooui-MacBookPro:redux-react hyungsoolim$ git init
-Reinitialized existing Git repository in /Users/hyungsoolim/dev/react/redux-react/.git/
+   Reinitialized existing Git repository in /Users/hyungsoolim/dev/react/redux-react/.git/
 
 hyungsooui-MacBookPro:redux-react hyungsoolim$ git remote add origin https://github.com/sabot73/redux-react.git
 
+
 hyungsooui-MacBookPro:redux-react hyungsoolim$ git add .
 
+
 hyungsooui-MacBookPro:redux-react hyungsoolim$ git commit -m "#1.0 Create React App"
+
 [master 864b963] #1.0 Create React App
  9 files changed, 1 insertion(+), 324 deletions(-)
  rewrite README.md (100%)
@@ -25,6 +28,7 @@ hyungsooui-MacBookPro:redux-react hyungsoolim$ git commit -m "#1.0 Create React 
  delete mode 100644 src/setupTests.js
 
 hyungsooui-MacBookPro:redux-react hyungsoolim$ git push origin master
+
 Username for 'https://github.com': sabot73 
 Password for 'https://sabot73@github.com': 
 Enumerating objects: 27, done.
